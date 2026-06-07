@@ -6,7 +6,7 @@ using PostgreSQL for data storage and querying, and Power BI
 for interactive dashboard visualization.
 ## 📸 Dashboard Preview
 
-![Pizza Dashboard](dashboard_screenshot.png)
+![Pizza Dashboard](Pizza_dashboard.png)
 
 ## 🛠️ Tools Used
 - **PostgreSQL** — Database design, data import, SQL queries
