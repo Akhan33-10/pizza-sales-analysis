@@ -4,6 +4,9 @@
 An end-to-end data analysis project analyzing pizza sales data 
 using PostgreSQL for data storage and querying, and Power BI 
 for interactive dashboard visualization.
+## 📸 Dashboard Preview
+
+![Pizza Dashboard](dashboard_screenshot.png)
 
 ## 🛠️ Tools Used
 - **PostgreSQL** — Database design, data import, SQL queries
