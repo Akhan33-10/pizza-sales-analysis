@@ -54,6 +54,7 @@ for interactive dashboard visualization.
 - `pizza_sales.sql` — Schema and analytical queries
 - `pizza_analysis.pbix` — Power BI dashboard
 
+ 
 ## 🚀 How to Run
 1. Create database `pizza_analysis_db` in PostgreSQL
 2. Run `pizza_sales.sql` to create tables
